@@ -16,6 +16,7 @@ organized? How would branches help?
 	If I want to make a trial for some idea or make a different view, it is good to keep master while trying them on different branch.
 
 How do the diagrams help you visualize the branch structure?
+	Without diagrams, visualizing the structure becomes almost impossible in later stages. Thus possibly we would be lost in commit history!
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
