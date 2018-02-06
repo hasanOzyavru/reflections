@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I want to explore a new idea, try something or when I have more than one way in my mind to go I can use it. It is also good when collaborating. Branching and merging, pull requests ensure each collaborators ideas are incorporated with mutual agreement.
